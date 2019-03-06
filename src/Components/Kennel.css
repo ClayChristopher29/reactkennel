@@ -1,0 +1,11 @@
+.kennel {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.container {
+    margin-top: 10vh
+}
+.top {
+    margin-top: 6rem;
+}
